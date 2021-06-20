@@ -1,4 +1,5 @@
-# programming/docker/debugging.md
+Debugging
+===
 
 Debugging dockerized celery services is not as straightforward as debugging simple python services. One issue is that the normal `breakpoint()` doesn't work for celery. The other issue is that celery doesn't come with a `auto-reload` feature, the same way frameworks like `flask` do.
 
