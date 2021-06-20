@@ -117,6 +117,8 @@ We've created a few Bubbles (markdown documents) to get you started.
 - [[inbox]] - a place to write down quick notes to be categorised later
 - [[foam-tips]] - tips to get the most out of your Foam workspace
 - [[todo]] - a place to keep track of things to do
+- [[some-subject]] - a test file
+- [[some-other-subject]] - another test file
 
 The demo on Vercel has some of Foam docs and has more usage examples (like images), check the [feature/foam-docs branch](https://github.com/hikerpig/foam-template-gatsby-kb/tree/feature/foam-docs) to see then.
 
